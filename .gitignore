@@ -219,3 +219,5 @@ Channel and Game Server/nbproject/
 Login Server/nbproject/
 build.xml
 manifest.mf
+Channel and Game Server/dist/
+Login Server/dist/
