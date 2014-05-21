@@ -20,7 +20,7 @@ public class Config {
     
     private void loaddatabase()
     {
-        File file = new File("conf/database.conf");
+        File file = new File("./conf/database.conf");
         FileInputStream fis = null;
 
         try {

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Channel_and_Game_Server" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Channel and Game Server.</description>
+    <import file="nbproject/build-impl.xml"/>
+    <target name="-post-jar"> 
+        <copy file="${src.dir}/conf/database.conf" flatten="true" todir="${dist.dir}/conf" /> 
+    </target>
+</project>
