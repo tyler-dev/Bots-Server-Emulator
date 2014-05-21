@@ -1,18 +1,3 @@
-/*
-Navicat MySQL Data Transfer
-
-Source Server         : Bots Server
-Source Server Version : 50519
-Source Host           : localhost:3306
-Source Database       : bout_evolution
-
-Target Server Type    : MYSQL
-Target Server Version : 50519
-File Encoding         : 65001
-
-Date: 2012-01-09 19:18:51
-*/
-
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
