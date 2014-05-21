@@ -213,3 +213,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Custom
+Channel and Game Server/nbproject/
+Login Server/nbproject/
+build.xml
+manifest.mf
